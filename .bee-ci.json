@@ -4,5 +4,6 @@
         "echo \"Hello, World!\"",
         "sleep 1",
         "echo \"Second Hello, World!\""
-    ]
+    ],
+    "timeout": 300
 }
