@@ -3,7 +3,8 @@
     "commands": [
         "echo \"Hello, World!\"",
         "sleep 1",
-        "echo \"Second Hello, World!\""
+        "echo \"Second Hello, World!\"",
+        "echo \"Third Hello, by Bartek :D\""
     ],
     "timeout": 300
 }
